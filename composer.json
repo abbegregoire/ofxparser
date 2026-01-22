@@ -1,5 +1,5 @@
 {
-    "name": "gregoireTN/ofxparser",
+    "name": "abbegregoire/ofxparser",
     "description": "Simple OFX file parser",
     "keywords": ["ofx", "open financial exchange", "finance", "parser"],
     "license": "MIT",
