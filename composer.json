@@ -1,9 +1,12 @@
 {
-    "name": "operandbr/ofxparser",
+    "name": "gregoireTN/ofxparser",
     "description": "Simple OFX file parser",
     "keywords": ["ofx", "open financial exchange", "finance", "parser"],
     "license": "MIT",
     "authors": [{
+        "name": "Grégoire Oliveira Silva",
+        "email": "gregoire@theo-net.org"
+    },{
         "name": "Guillaume Bailleul",
         "email": "contact@guillaume-bailleul.fr",
         "homepage": "http://www.guillaume-bailleul.fr"
@@ -23,5 +26,8 @@
         "psr-0": {
             "OfxParser": "lib/"
         }
+    },
+    "require": {
+      "php": ">=8.2"
     }
 }
